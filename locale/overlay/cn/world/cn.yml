@@ -2,69 +2,71 @@
 zh-CN:
   world:
     cn:
-      '11':
-        name: 北京
-      '12':
-        name: 天津
-      '13':
-        name: 河北
-      '14':
-        name: 陕西
-      '15':
-        name: 内蒙古
-      '21':
-        name: 辽宁
-      '22':
-        name: 吉林
-      '23':
-        name: 黑龙江
-      '31':
-        name: 上海
-      '32':
-        name: 江苏
-      '33':
-        name: 浙江
-      '34':
+      ah:
         name: 安徽
-      '35':
-        name: 福建
-      '36':
-        name: 江西
-      '37':
-        name: 山东
-      '41':
-        name: 河南
-      '42':
-        name: 湖北
-      '43':
-        name: 湖南
-      '44':
-        name: 广东
-      '45':
-        name: 广西
-      '46':
-        name: 海南
-      '50':
+      bj:
+        name: 北京
+      cq:
         name: 重庆
-      '51':
-        name: 四川
-      '52':
+      fj:
+        name: 福建
+      gd:
+        name: 广东
+      gs:
+        name: 甘肃        
+      gx:
+        name: 广西
+      gz:
         name: 贵州
-      '53':
-        name: 云南
-      '54':
-        name: 西藏
-      '61':
-        name: 山西
-      '62':
-        name: 甘肃
-      '63':
-        name: 青海
-      '64':
-        name: 宁夏
-      '65':
-        name: 新疆
-      '91':
+      ha:
+        name: 河南
+      hb:
+        name: 湖北
+      he:
+        name: 河北
+      hi:
+        name: 海南
+      hk:
         name: 香港 (Hong-Kong)
-      '92':
+      hl:
+        name: 黑龙江
+      hn:
+        name: 湖南
+      jl:
+        name: 吉林
+      js:
+        name: 江苏
+      jx:
+        name: 江西
+      ln:
+        name: 辽宁
+      mo:
         name: 澳门 (Macau)
+      nm:
+        name: 内蒙古
+      nx:
+        name: 宁夏
+      qh:
+        name: 青海
+      sc:  
+        name: 四川
+      sd:
+        name: 山东
+      sh:
+        name: 上海
+      sn:
+        name: 陕西
+      sx:
+        name: 山西
+      tj:
+        name: 天津
+      tw:
+        name: 台湾
+      xj:
+        name: 新疆
+      xz:
+        name: 西藏
+      yn:
+        name: 云南
+      zj:
+        name: 浙江
